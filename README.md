@@ -7,4 +7,7 @@ Using The Odin Project as a guide, I'm aiming to recreate the image they set up 
 
 Good luck to me, I guess 🤷‍♂️
 
+Images used:
 
+Thanks to <a href="https://www.pexels.com/@maxravier/">Max Ravier from Pexels</a> for the image used in the section one of the project. 
+ 
