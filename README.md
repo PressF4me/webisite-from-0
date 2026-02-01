@@ -9,5 +9,5 @@ Good luck to me, I guess 🤷‍♂️
 
 Images used:
 
-Thanks to <a href="https://www.pexels.com/@maxravier/">Max Ravier from Pexels</a> for the image used in the section one of the project. 
+Thanks to <a href="https://www.pexels.com/photo/bird-flying-over-the-pink-clouds-8540878/">Max Ravier from Pexels</a> for the image used in the section one of the project. 
  
