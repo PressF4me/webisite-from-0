@@ -11,3 +11,10 @@ Images used:
 
 Thanks to <a href="https://www.pexels.com/photo/bird-flying-over-the-pink-clouds-8540878/">Max Ravier from Pexels</a> for the image used in the section one of the project. 
  
+Thanks to <a href="https://pixabay.com/photos/duck-bird-animal-feathers-plumage-8619411/">Gubo59 from Pixabay</a> for the image used in the section two of the project. 
+
+Thanks to <a href="https://pixabay.com/photos/dandelion-meadow-flower-spring-9568531/">zapCulture from Pixabay</a> for the image used in the section two of the project. 
+
+Thanks to <a href="https://pixabay.com/photos/parakeet-bird-animal-feathers-10074499/">Gruendercoach from Pixabay</a> for the image used in the section two of the project. 
+
+Thanks to <a href="https://pixabay.com/photos/owl-bird-nature-animal-wildlife-10077647/">Nick4Fun from Pixabay</a> for the image used in the section two of the project. 
