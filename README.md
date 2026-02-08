@@ -7,6 +7,11 @@ Using The Odin Project as a guide, I'm aiming to recreate the image they set up 
 
 Good luck to me, I guess 🤷‍♂️
 
+Finished the Website! Here are my results:
+
+<img width="1920" height="1584" alt="website" src="https://github.com/user-attachments/assets/6d17baf9-99be-4c02-8838-bc63740d97cc" />
+
+
 Images used:
 
 Thanks to <a href="https://www.pexels.com/photo/bird-flying-over-the-pink-clouds-8540878/">Max Ravier from Pexels</a> for the image used in the section one of the project. 
